@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcgSnippet", "EcgSnippet\EcgSnippet.csproj", "{CC344391-889B-489F-9EC7-D4D9F4F3E2B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcgSnippet.Tests", "EcgSnippet.Tests\EcgSnippet.Tests.csproj", "{131EFC2C-8B2C-4B5F-BC37-36866CAD09CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC344391-889B-489F-9EC7-D4D9F4F3E2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC344391-889B-489F-9EC7-D4D9F4F3E2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC344391-889B-489F-9EC7-D4D9F4F3E2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC344391-889B-489F-9EC7-D4D9F4F3E2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131EFC2C-8B2C-4B5F-BC37-36866CAD09CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131EFC2C-8B2C-4B5F-BC37-36866CAD09CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131EFC2C-8B2C-4B5F-BC37-36866CAD09CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131EFC2C-8B2C-4B5F-BC37-36866CAD09CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

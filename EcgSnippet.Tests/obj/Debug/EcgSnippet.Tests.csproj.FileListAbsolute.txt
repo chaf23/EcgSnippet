@@ -1,0 +1,156 @@
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\EcgSnippet.Tests.dll.config
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\EcgSnippet.Tests.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\EcgSnippet.Tests.pdb
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\EcgSnippet.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Data.OData.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Spatial.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Http.OData.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\EntityFramework.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\itextsharp.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\EcgSnippet.pdb
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Http.OData.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Data.Edm.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Data.OData.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Spatial.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\EntityFramework.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\itextsharp.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\de\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\es\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\fr\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\it\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\ja\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\ko\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\ru\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\obj\Debug\EcgSnippet.Tests.csprojResolveAssemblyReference.cache
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\obj\Debug\EcgSnippet.Tests.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet.Tests\obj\Debug\EcgSnippet.Tests.pdb
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\EcgSnippet.Tests.dll.config
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\EcgSnippet.Tests.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\EcgSnippet.Tests.pdb
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\EcgSnippet.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Spatial.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Http.OData.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\EntityFramework.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\itextsharp.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\EcgSnippet.pdb
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Web.Http.OData.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\System.Spatial.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\EntityFramework.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\itextsharp.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\obj\Debug\EcgSnippet.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\obj\Debug\EcgSnippet.Tests.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet.Tests\obj\Debug\EcgSnippet.Tests.pdb

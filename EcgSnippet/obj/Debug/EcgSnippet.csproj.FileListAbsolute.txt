@@ -1,0 +1,161 @@
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\EcgSnippet.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\EcgSnippet.pdb
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Antlr3.Runtime.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.AspNet.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.Core.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OAuth.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OpenId.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\EntityFramework.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\itextsharp.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Microsoft.Data.Edm.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Microsoft.Data.OData.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Newtonsoft.Json.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Spatial.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.Helpers.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.Http.OData.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.Mvc.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.Optimization.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.Razor.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.Deployment.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.Razor.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\WebGrease.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\WebMatrix.Data.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\WebMatrix.WebData.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\itextsharp.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\EntityFramework.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Newtonsoft.Json.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.Helpers.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.Mvc.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.Razor.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.Deployment.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.Razor.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\WebMatrix.Data.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\WebMatrix.WebData.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.AspNet.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.Core.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OAuth.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OpenId.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Web.Http.OData.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Microsoft.Data.Edm.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\Microsoft.Data.OData.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\System.Spatial.xml
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\de\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\es\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\fr\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\it\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\ja\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\ko\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\ru\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\obj\Debug\EcgSnippet.csprojResolveAssemblyReference.cache
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\obj\Debug\EcgSnippet.dll
+c:\users\dago\documents\visual studio 2012\Projects\EcgSnippet\EcgSnippet\obj\Debug\EcgSnippet.pdb
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\EcgSnippet.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\EcgSnippet.pdb
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Antlr3.Runtime.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.Core.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\EntityFramework.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Microsoft.Data.Edm.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Microsoft.Data.OData.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Newtonsoft.Json.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Spatial.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.Helpers.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.Http.OData.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.Mvc.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.Optimization.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.Razor.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.Razor.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\WebGrease.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\WebMatrix.Data.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\WebMatrix.WebData.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\itextsharp.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\EntityFramework.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Newtonsoft.Json.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.Helpers.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.Mvc.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.Razor.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.WebPages.Razor.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\WebMatrix.Data.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\WebMatrix.WebData.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.Core.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Web.Http.OData.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Microsoft.Data.Edm.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\Microsoft.Data.OData.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\System.Spatial.xml
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\de\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\es\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\fr\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\it\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\ja\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\ko\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\ru\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\obj\Debug\EcgSnippet.csprojResolveAssemblyReference.cache
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\obj\Debug\EcgSnippet.dll
+C:\Users\DAGO\Desktop\EcgSnippet\EcgSnippet\obj\Debug\EcgSnippet.pdb
