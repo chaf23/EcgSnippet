@@ -42,7 +42,7 @@ namespace EcgSnippet.Snippets
                 {
                     cb.AddImage(ConvertBase64ToElement(ecg.EcgImage));
                 }
-                LineTimeAndLead(cb);
+                LineTimeAndLead(cb, ecg);
             }
         }
 
@@ -71,19 +71,22 @@ namespace EcgSnippet.Snippets
             YPos = YTopPost;
             TextAlignedPdfConfig textAlignedPdf = new TextAlignedPdfConfig();
 
+            YPos -= 18;
             textAlignedPdf.Text = patientDetails.Name;
             textAlignedPdf.X = 320;
             textAlignedPdf.Y = YPos;
             PrintText(cb, textAlignedPdf);
 
+            YPos -= 18;
             textAlignedPdf.Text = "MRN: " + patientDetails.Mrn;
             textAlignedPdf.X = 320;
-            textAlignedPdf.Y = YPos -= 18;
+            textAlignedPdf.Y = YPos;
             PrintText(cb, textAlignedPdf);
 
-            textAlignedPdf.Text = "DOB: " + patientDetails.Dob;
+            YPos -= 18;
+            textAlignedPdf.Text = "DOB: " + patientDetails.Dob.ToString("MM/dd/yyyy");
             textAlignedPdf.X = 320;
-            textAlignedPdf.Y = YPos -= 18;
+            textAlignedPdf.Y = YPos;
             PrintText(cb, textAlignedPdf);
 
             textAlignedPdf.Text = "Date:" + DateTime.Now.Date.ToString("MM/dd/yyyy");
@@ -125,7 +128,7 @@ namespace EcgSnippet.Snippets
             return img;
         }
 
-        private void LineTimeAndLead(PdfContentByte cb)
+        private void LineTimeAndLead(PdfContentByte cb, PatientEcg ecg)
         {
             YPos -= 1;
 
@@ -135,7 +138,7 @@ namespace EcgSnippet.Snippets
             cb.Stroke();
 
             //Time: & Lead: Text
-            TimeLeadText(cb);
+            TimeLeadText(cb, ecg);
 
             //Bottom Border Line
             YPos -= 46;
@@ -146,20 +149,17 @@ namespace EcgSnippet.Snippets
             YPos -= 106;
         }
 
-        private void TimeLeadText(PdfContentByte cb)
+        private void TimeLeadText(PdfContentByte cb, PatientEcg ecg)
         {
             YPos -= 58;
-            var textAlignedPdf = new TextAlignedPdfConfig
-            {
-                Y = YPos
-            };
+            var textAlignedPdf = new TextAlignedPdfConfig {Y = YPos};
 
-            var text = "Lead:";
+            var text = "Lead:" + ecg.Lead;
             textAlignedPdf.Text = text;
             textAlignedPdf.X = 320;
             PrintText(cb, textAlignedPdf);
 
-            text = "Time:";
+            text = "Time:" + ecg.EndTime.ToString("hh:mm:ss tt") + "-" + ecg.BeginTime.ToString("hh:mm:ss tt");
             textAlignedPdf.Text = text;
             textAlignedPdf.X = 50;
             PrintText(cb, textAlignedPdf);
